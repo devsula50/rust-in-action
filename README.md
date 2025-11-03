@@ -1,4 +1,4 @@
-# rust-in-action
+# apue-in-rust
 
 I am studying APUE(Advanced Programming in the Unix Environment),
 and this project involves converting APUE examples from C to Rust.
